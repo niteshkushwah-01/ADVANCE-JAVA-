@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [18/Oct/2026:18:14:47 +0530] "GET /shopsphere/ HTTP/1.1" 200 20846
+0:0:0:0:0:0:0:1 - - [18/Oct/2026:18:14:47 +0530] "GET /shopsphere/css/style.css HTTP/1.1" 200 2744
+0:0:0:0:0:0:0:1 - - [18/Oct/2026:18:14:47 +0530] "GET /shopsphere/js/app.js HTTP/1.1" 200 1391
+0:0:0:0:0:0:0:1 - - [18/Oct/2026:18:14:47 +0530] "GET /shopsphere/images/placeholder.svg HTTP/1.1" 200 472
+0:0:0:0:0:0:0:1 - - [18/Oct/2026:18:14:47 +0530] "GET /favicon.ico HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [18/Oct/2026:18:14:59 +0530] "GET /shopsphere/products?category=3 HTTP/1.1" 200 11127
+0:0:0:0:0:0:0:1 - - [18/Oct/2026:21:00:38 +0530] "GET /shopsphere/products HTTP/1.1" 200 38155
+0:0:0:0:0:0:0:1 - - [18/Oct/2026:21:00:43 +0530] "GET /shopsphere/product?id=16 HTTP/1.1" 200 8958
+0:0:0:0:0:0:0:1 - - [18/Oct/2026:21:00:47 +0530] "GET /shopsphere/product?id=12 HTTP/1.1" 200 9646
+0:0:0:0:0:0:0:1 - - [18/Oct/2026:21:00:51 +0530] "POST /shopsphere/cart HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Oct/2026:21:00:51 +0530] "GET /shopsphere/login HTTP/1.1" 200 4055

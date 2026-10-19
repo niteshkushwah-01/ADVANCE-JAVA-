@@ -1,0 +1,44 @@
+24-Sep-2026 18:01:06.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/11.0.25
+24-Sep-2026 18:01:06.494 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 12 2026 12:46:04 UTC
+24-Sep-2026 18:01:06.495 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 11.0.25.0
+24-Sep-2026 18:01:06.495 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+24-Sep-2026 18:01:06.495 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+24-Sep-2026 18:01:06.495 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+24-Sep-2026 18:01:06.495 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\latest\jdk-26
+24-Sep-2026 18:01:06.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           26.0.2+10-55
+24-Sep-2026 18:01:06.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+24-Sep-2026 18:01:06.497 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\nites\OneDrive\Desktop\apache-tomcat-11.0.25
+24-Sep-2026 18:01:06.497 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\nites\OneDrive\Desktop\apache-tomcat-11.0.25
+24-Sep-2026 18:01:06.514 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\nites\OneDrive\Desktop\apache-tomcat-11.0.25\conf\logging.properties
+24-Sep-2026 18:01:06.515 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+24-Sep-2026 18:01:06.515 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+24-Sep-2026 18:01:06.515 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+24-Sep-2026 18:01:06.516 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+24-Sep-2026 18:01:06.516 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+24-Sep-2026 18:01:06.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+24-Sep-2026 18:01:06.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+24-Sep-2026 18:01:06.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+24-Sep-2026 18:01:06.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --enable-native-access=ALL-UNNAMED
+24-Sep-2026 18:01:06.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\nites\OneDrive\Desktop\apache-tomcat-11.0.25
+24-Sep-2026 18:01:06.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\nites\OneDrive\Desktop\apache-tomcat-11.0.25
+24-Sep-2026 18:01:06.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\nites\OneDrive\Desktop\apache-tomcat-11.0.25\temp
+24-Sep-2026 18:01:06.522 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.15] using APR version [1.7.6].
+24-Sep-2026 18:01:06.548 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.5.7 9 Jun 2026]
+24-Sep-2026 18:01:06.812 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Sep-2026 18:01:06.831 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [515] milliseconds
+24-Sep-2026 18:01:06.870 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Sep-2026 18:01:06.870 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/11.0.25]
+24-Sep-2026 18:01:06.879 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\nites\OneDrive\Desktop\apache-tomcat-11.0.25\webapps\docs]
+24-Sep-2026 18:01:07.117 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\nites\OneDrive\Desktop\apache-tomcat-11.0.25\webapps\docs] has finished in [235] ms
+24-Sep-2026 18:01:07.118 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\nites\OneDrive\Desktop\apache-tomcat-11.0.25\webapps\examples]
+24-Sep-2026 18:01:07.448 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\nites\OneDrive\Desktop\apache-tomcat-11.0.25\webapps\examples] has finished in [330] ms
+24-Sep-2026 18:01:07.448 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\nites\OneDrive\Desktop\apache-tomcat-11.0.25\webapps\host-manager]
+24-Sep-2026 18:01:07.484 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\nites\OneDrive\Desktop\apache-tomcat-11.0.25\webapps\host-manager] has finished in [36] ms
+24-Sep-2026 18:01:07.484 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\nites\OneDrive\Desktop\apache-tomcat-11.0.25\webapps\manager]
+24-Sep-2026 18:01:07.514 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\nites\OneDrive\Desktop\apache-tomcat-11.0.25\webapps\manager] has finished in [30] ms
+24-Sep-2026 18:01:07.515 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\nites\OneDrive\Desktop\apache-tomcat-11.0.25\webapps\MyWebApps]
+24-Sep-2026 18:01:07.543 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\nites\OneDrive\Desktop\apache-tomcat-11.0.25\webapps\MyWebApps] has finished in [29] ms
+24-Sep-2026 18:01:07.544 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\nites\OneDrive\Desktop\apache-tomcat-11.0.25\webapps\ROOT]
+24-Sep-2026 18:01:07.577 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\nites\OneDrive\Desktop\apache-tomcat-11.0.25\webapps\ROOT] has finished in [33] ms
+24-Sep-2026 18:01:07.581 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Sep-2026 18:01:07.605 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [772] milliseconds

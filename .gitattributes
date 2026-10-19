@@ -1,2 +1,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Ignore Tomcat's bundled files in language stats
+Introduction[[:space:]]to[[:space:]]apache-tomcat[[:space:]]-[[:space:]](Exp-6)/** linguist-vendored
+
+# Ignore HTML/CSS/JS so Java wins
+*.html linguist-detectable=false
+*.css  linguist-detectable=false
+*.js   linguist-detectable=false
+*.jsp  linguist-detectable=false
